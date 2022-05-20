@@ -2,7 +2,7 @@
 
 **Template repository for getting started quickly with Foundry and ETK projects**
 
-![Tests](https://github.com/Saw-mon-and-Natalie/forge-etk-template/workflows/test.yml/badge.svg)
+![Tests](https://github.com/Saw-mon-and-Natalie/forge-etk-template/actions/workflows/test.yml/badge.svg)
 
 ## Getting Started
 
