@@ -15,6 +15,11 @@ forge build
 forge test
 ```
 
+Or, run this command
+```sh
+forge init --template Saw-mon-and-Natalie/forge-etk-template <PROJECT_NAME>
+```
+
 ### Requirements
 
 - [forge](https://github.com/foundry-rs/foundry)
