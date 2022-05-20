@@ -13,7 +13,7 @@ contract ContractTest is Test {
          * windows: scripts/compile.bat
          * linux  : scripts/compile.sh
          */
-        inputs[0] = "scripts/compile.bat";
+        inputs[0] = "scripts/compile.sh";
 
         // path/to/contract.etk
         inputs[1] = "src/Contract.etk";
